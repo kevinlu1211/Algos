@@ -1,4 +1,4 @@
-In the Algorithms folder:
+#### Dijkstra’s greedy set cover
 
 The Dijkstra’s folder implements a greedy set approach to find all houses within 1000 meters of a school node. The set uses a heap priority queue as the data structure for the distance between nodes for efficiency.
 
@@ -18,17 +18,17 @@ There is a test.txt file that has sample inputs for the algorithm although it ma
 
 The program has already been complied so on the command line:
 
-./dijkstra < test.txt 
+`./dijkstra < test.txt` 
 
 should run assuming you are using a Linux shell
 
-=====================================================================================
+#### Stack-Based Mergesort and Quicksort
 
 The Stack-Based Mergesort and Quicksort quite self explanatory I have already complied it for you and can be on the command line via: 
 
 For quick sort:
-./sort q < 1m.txt > output.txt 
+`./sort q < 1m.txt > output.txt` 
 
 For merge sort
-./sort m < 1m.txt > output.txt 
+`./sort m < 1m.txt > output.txt` 
 
